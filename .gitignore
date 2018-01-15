@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/myApp/node_modules/
+.idea/
+myApp/.babelrc
+myApp/.flowconfig
+myApp/.gitignore
+myApp/.watchmanconfig
+myApp/App.js
+myApp/App.test.js
+myApp/README.md
+myApp/app.json
+myApp/package-lock.json
+myApp/package.json
+myApp/yarn.lock
+react-native.iml
